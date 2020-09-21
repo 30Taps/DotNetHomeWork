@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Sieve of Eratosthenes", "The Sieve of Eratosthenes.csproj", "{BB6CB601-46C1-4372-8F2D-BD315A1AF6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6CB601-46C1-4372-8F2D-BD315A1AF6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6CB601-46C1-4372-8F2D-BD315A1AF6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6CB601-46C1-4372-8F2D-BD315A1AF6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6CB601-46C1-4372-8F2D-BD315A1AF6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C218D605-F4D1-4472-828C-A5FCFEB7C982}
+	EndGlobalSection
+EndGlobal
