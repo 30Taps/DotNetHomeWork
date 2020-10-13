@@ -62,8 +62,11 @@ namespace Alarm
         {
             AlarmClock time1 = new AlarmClock();
             time1.time1.Tick(16, 23);
+            time1.time2.Tick(16, 23);
+
             AlarmClock time2 = new AlarmClock();
             time2.time2.Alarm(14, 00);
+            time2.time1.Alarm(14, 00);
         }
     }
 }
