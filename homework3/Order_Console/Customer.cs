@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Order_Console
 {
-   public  class Customer
+    public class Customer
     {
         public uint Id { set; get; }
         public string Name { set; get; }
